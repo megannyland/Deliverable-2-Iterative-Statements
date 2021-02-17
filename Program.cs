@@ -17,7 +17,7 @@ namespace Deliverable_2_Iterative_Statements
                 /*if/else Deliverable_2_Iterative_Statements is used to test the values of user input*/
                 if ((value_of_input >0)&&(value_of_input < 101))
                 {
-                    Console.WriteLine("You have entered "+ value_of_input.ToString());
+                    Console.WriteLine("You have entered: "+ value_of_input.ToString());
                     //For Loop
                     for (int i = 0; i <value_of_input; i++)
                     {
