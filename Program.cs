@@ -7,7 +7,7 @@ namespace Deliverable_2_Iterative_Statements
         static void Main(string[] args)
         {
             //Ask for user input
-            Console.Write("Enter an integer value between 1 and 100 to execute an iterative statement:");
+            Console.Write("Enter an integer value between 1 and 100 to execute an iterative statement:"); 
             try
             {
                 //this variable will gather data from user input
